@@ -1,0 +1,1 @@
+# pinapp-qa-automation
