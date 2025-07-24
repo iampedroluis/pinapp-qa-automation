@@ -13,7 +13,7 @@ class HomePage:
     def __init__(self, driver):
         """
         Inicializa la página de inicio con el controlador de Selenium.
-        Args:
+        param:
             driver: El controlador de Selenium para interactuar con la página.
         """
         self.driver = driver
