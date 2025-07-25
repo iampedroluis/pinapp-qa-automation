@@ -99,7 +99,7 @@ markers =
     PIA_002: Prueba de login de usuario
 
 ```bash
-pytest -m <marka_del_test> --gherkin-terminal-reporter --html=reports/report.html --self-contained-html --capture=sys --log-cli-level=INFO -vv
+pytest -m <marca_del_test> --gherkin-terminal-reporter --html=reports/report.html --self-contained-html --capture=sys --log-cli-level=INFO -vv
 ```
 
  Esto generará un reporte visual en `reports/report.html`.
