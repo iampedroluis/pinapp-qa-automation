@@ -41,4 +41,3 @@ def hago_clic_en_el_boton_login(login_page):
 @then('se muestra el mensaje Logged in as')
 def se_muestra_el_mensaje(login_page):
     assert login_page.title_logged_visible, "No se encuentra el mensaje Logged in as en la pagina"
-    time.sleep(8)
