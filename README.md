@@ -153,7 +153,7 @@ Dentro del directorio `postman/` encontrarás:
 ---
 ## 📌 Notas adicionales
 
-Al ser una Api publica se necesita ejecutar mas de una vez la peticion.
+> Al ser una Api publica se necesita ejecutar mas de una vez la peticion.
 
 
 ---
@@ -162,7 +162,7 @@ Al ser una Api publica se necesita ejecutar mas de una vez la peticion.
 
 Si tienes dudas o sugerencias, no dudes en contactarme.
 
-> Autor: Pedro Gutierrez 
-> Email: pedroluisgutierrez.dev@gmail.com
-> Linkedin: [Pedro Gutierrez](https://www.linkedin.com/in/pedro-luis-gutierrez-contreras) 
-> GitHub: [@tu_usuario](https://github.com/iampedroluis)
+Autor: Pedro Gutierrez 
+Email: pedroluisgutierrez.dev@gmail.com
+Linkedin: [Pedro Gutierrez](https://www.linkedin.com/in/pedro-luis-gutierrez-contreras) 
+GitHub: [@tu_usuario](https://github.com/iampedroluis)
